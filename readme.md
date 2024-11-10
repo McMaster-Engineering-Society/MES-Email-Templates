@@ -23,6 +23,6 @@ This repository was created with the [React Email Template starter](https://reac
 
    ```
 
-Open [localhost:3000](localhost:3000) in your browser to see the emails in action.
+Open [localhost:3000](http://localhost:3000) in your browser to see the emails in action.
 
 To use the email templates, copy the HTML from each desired email template in the localhost GUI into the MES-Website-App-Router repository.
