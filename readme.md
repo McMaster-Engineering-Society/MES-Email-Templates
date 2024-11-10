@@ -1,27 +1,28 @@
-# React Email Starter
+# Hatch Booking System - React Email Templates
 
-A live preview right in your browser so you don't need to keep sending real emails during development.
+This repository provides a suite of email templates for the Hatch Booking System, including example and production-ready emails. It enables a live preview in your browser, so you don’t need to send real emails during development.
+
+This repository was created with the [React Email Template starter](https://react.email/docs/getting-started/automatic-setup).
 
 ## Getting Started
 
-First, install the dependencies:
+1. **Install Dependencies**
 
-```sh
-npm install
-# or
-yarn
-```
+   Start by installing the required dependencies:
 
-Then, run the development server:
+   ```sh
+   npm install
+   ```
 
-```sh
-npm run dev
-# or
-yarn dev
-```
+2. **Run the Development Server**
 
-Open [localhost:3000](http://localhost:3000) with your browser to see the result.
+   Launch the development server to preview email templates live:
 
-## License
+   ```sh
+   npm run dev
 
-MIT License
+   ```
+
+Open [localhost:3000](localhost:3000) in your browser to see the emails in action.
+
+To use the email templates, copy the HTML from each desired email template in the localhost GUI into the MES-Website-App-Router repository.

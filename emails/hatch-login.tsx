@@ -77,8 +77,7 @@ export const HatchLoginEmail = () => (
             Verify and redirect your login
           </Button>
           <Text style={paragraph}>
-            If you did not request this email you can safely ignore
-            it.feweqwfefqwwefq
+            If you did not request this email you can safely ignore it.
           </Text>
           <Hr style={hr} />
           <Text style={footer}>McMaster Engineering Society</Text>
